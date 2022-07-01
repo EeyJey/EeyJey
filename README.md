@@ -18,7 +18,7 @@
 
 - 🔭 I’m currently working on a massive FiveM update, stay tuned!
   
-- 🌱 I’m currently learning Javascript Frameworkds
+- 🌱 I’m currently learning Javascript Frameworks
   
 - 👯 I’m looking to collaborate on FiveM Projects
   
